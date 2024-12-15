@@ -1,0 +1,1 @@
+print("Subpaquete 'subpaquete' inicializado")
